@@ -1,1 +1,2 @@
-google-generative-ai
+streamlit
+git+https://github.com/google/generative-ai-python.git
